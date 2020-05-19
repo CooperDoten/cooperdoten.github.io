@@ -13,7 +13,10 @@ p { font-family: san-serif;
 ul: text-align:center;
   list-style-position: inside;
   
-  img { 
+  img {  position: absolute;
+  right: 0px;
+  width: 300px;
+    padding: 10px;}
  
   
   
