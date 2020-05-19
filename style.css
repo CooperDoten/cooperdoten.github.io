@@ -7,13 +7,13 @@ body{
   
    
  
-  .image {  position: right;
+  div.image {  position: right;
   right: 0px;
   width: 300px;
     padding: 10px;} 
   
   
-  .navigation {  position: left;
+  div.navigation {  position: left;
     
     
     
@@ -22,7 +22,7 @@ body{
   }
   
 
-.main { font-family: san-serif;
+div.main { font-family: san-serif;
   color:#AED6F1;
   text-align: center;
 }
