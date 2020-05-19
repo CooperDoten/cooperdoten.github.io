@@ -32,13 +32,13 @@ font-size: 2.5em;
   
    
  
-  .image {  position: absolute;
+  .image {  position: right;
   right: 0px;
   width: 300px;
     padding: 10px;} 
   
   
-  .navigation {
+  .navigation {  position: left;
     
     
     
@@ -49,6 +49,7 @@ font-size: 2.5em;
 
 .main { font-family: san-serif;
   color:#AED6F1;
+  text-align: center;
 }
 ul: text-align:center;
   list-style-position: inside;
