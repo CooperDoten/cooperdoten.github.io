@@ -2,21 +2,59 @@ body{
   background-color: #F7DC6F; 
   text-align: center;
   
-h1{ font-family:Rockwell,Garamond, Helvetica;
+
+  
+  h1{ font-family:Rockwell,Garamond, Helvetica;
 color: #AED6F1;
 font-size: 2.5em;
   text-align: center;}
+  
+  
+ .container {
+   
+   
+   
+   
+   
+   
+  }
+  
+  
+  .intro {
+    
+    
+    
+    
+    
+    
+    
+  }
+  
+   
+ 
+  .image {  position: absolute;
+  right: 0px;
+  width: 300px;
+    padding: 10px;} 
+  
+  
+  .navigation {
+    
+    
+    
+    
+    
+  }
+  
 
-p { font-family: san-serif;
+.main { font-family: san-serif;
   color:#AED6F1;
 }
 ul: text-align:center;
   list-style-position: inside;
   
-  img {  position: absolute;
-  right: 0px;
-  width: 300px;
-    padding: 10px;}
+  
+
  
   
   
